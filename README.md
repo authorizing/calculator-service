@@ -29,8 +29,11 @@ A microservice-based calculator application with Kafka integration, built using 
 All endpoints accept GET requests with query parameters `a` and `b`.
 
 `GET /api/v1/calculator/sum?a={number}&b={number}`
+#
 `GET /api/v1/calculator/subtract?a={number}&b={number}`
+#
 `GET /api/v1/calculator/multiply?a={number}&b={number}`
+#
 `GET /api/v1/calculator/divide?a={number}&b={number}`
 
 ### Example Requests
