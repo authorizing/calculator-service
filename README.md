@@ -1,6 +1,6 @@
 # Calculator Service
 
-A microservice-based calculator application with Kafka integration, built using Spring Boot and Maven.
+A microservice-based calculator application with Kafka integration, built using Spring Boot and Maven. :)
 
 ## Features
 
