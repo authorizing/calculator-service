@@ -13,7 +13,6 @@ A microservice-based calculator application with Kafka integration, built using 
 - Multi-module Maven project structure
 - Logging with SLF4J
 - Request ID tracking
-- Error handling for division by zero
 
 ## Tech Stack
 
