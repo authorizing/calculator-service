@@ -68,7 +68,7 @@ curl "http://localhost:8080/api/v1/calculator/divide?a=10.5&b=5.5"
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/calculator-service.git
+git clone https://github.com/authorizing/calculator-service.git
 cd calculator-service
 ```
 
